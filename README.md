@@ -74,4 +74,4 @@ If you're interested in contributing to the development of Schedu, we welcome yo
 ---
 
 ## **`Authors`**
-#### [**Isabel Banda Telonge**](https://linkedin/in/isabelbanda)
+#### [**Isabel Banda**](https://linkedin/in/isabelbanda)
