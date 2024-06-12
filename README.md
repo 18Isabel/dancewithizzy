@@ -29,7 +29,7 @@ Read more about the project on our [blog](https://linkedin/in/isabelbanda)
 
 ## Features
 - **User Management:** Users are able to register and login to their accounts per successfully purchase and enrollment.
-- **Trainngs** Webpages made for training individuals. include blogs, photos, videos and reference tutorials.
+- **Trainings** Webpages made for training individuals. include blogs, photos, videos and reference tutorials.
 - **User Dashboard:** Students can log in to access relevant information.
 - **Intuitive User Interface:** An easy-to-use interface for seamless navigation.
 - **API Integration:** A RESTful API for communication between the front-end and the database.
